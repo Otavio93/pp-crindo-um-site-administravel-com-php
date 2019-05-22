@@ -8,6 +8,6 @@
 
 define('DEBUG', false);
 define('DB_SERVER', 'localhost');
-define('DB_USER', 'c0curso');
-define('DB_PASSWD', 'Szc#3zY8');
-define('DB_NAME', 'c0curso');
+define('DB_USER', 'root');
+define('DB_PASSWD', '');
+define('DB_NAME', 'son_site_administravel_php');

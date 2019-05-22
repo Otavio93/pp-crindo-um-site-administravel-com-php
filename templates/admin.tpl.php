@@ -58,7 +58,7 @@
 
     <script>
 
-        document.addEventListener('trix-attachment-add', function () {
+        document.addEventListener('trix-attachment-add', function (event) {
             const attachment = event.attachment;
             if (!attachment.file) {
                 return;
